@@ -1,0 +1,122 @@
+C:\Users\SUPERSOLDIER\source\repos\AppIntroducao\bin\Debug\AppIntroducao.exe.config
+C:\Users\SUPERSOLDIER\source\repos\AppIntroducao\bin\Debug\AppIntroducao.exe
+C:\Users\SUPERSOLDIER\source\repos\AppIntroducao\bin\Debug\AppIntroducao.pdb
+C:\Users\SUPERSOLDIER\source\repos\AppIntroducao\obj\Debug\AppIntroducao.csproj.AssemblyReference.cache
+C:\Users\SUPERSOLDIER\source\repos\AppIntroducao\obj\Debug\AppIntroducao.Properties.Resources.resources
+C:\Users\SUPERSOLDIER\source\repos\AppIntroducao\obj\Debug\AppIntroducao.csproj.GenerateResource.cache
+C:\Users\SUPERSOLDIER\source\repos\AppIntroducao\obj\Debug\AppIntroducao.csproj.CoreCompileInputs.cache
+C:\Users\SUPERSOLDIER\source\repos\AppIntroducao\obj\Debug\AppIntroducao.exe
+C:\Users\SUPERSOLDIER\source\repos\AppIntroducao\obj\Debug\AppIntroducao.pdb
+C:\Users\SUPERSOLDIER\source\repos\AppIntroducao\obj\Debug\AppIntroducao.FormPrincipal.resources
+C:\Users\SUPERSOLDIER\source\repos\AppIntroducao\obj\Debug\AppIntroducao.view.FormClienteCadastrar.resources
+C:\Users\SUPERSOLDIER\source\repos\AppIntroducao\obj\Debug\AppIntroducao.view.FormClienteListar.resources
+C:\Users\SUPERSOLDIER\source\repos\AppIntroducao\obj\Debug\AppIntroducao.view.FormProdutoCadastrar.resources
+C:\Users\SUPERSOLDIER\source\repos\AppIntroducao\obj\Debug\AppIntroducao.view.FormProdutoListar.resources
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\AppIntroducao\bin\Debug\AppIntroducao.exe.config
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\AppIntroducao\bin\Debug\AppIntroducao.exe
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\AppIntroducao\bin\Debug\AppIntroducao.pdb
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\AppIntroducao\obj\Debug\AppIntroducao.csproj.AssemblyReference.cache
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\AppIntroducao\obj\Debug\AppIntroducao.FormPrincipal.resources
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\AppIntroducao\obj\Debug\AppIntroducao.Properties.Resources.resources
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\AppIntroducao\obj\Debug\AppIntroducao.view.FormClienteCadastrar.resources
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\AppIntroducao\obj\Debug\AppIntroducao.view.FormClienteListar.resources
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\AppIntroducao\obj\Debug\AppIntroducao.view.FormProdutoCadastrar.resources
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\AppIntroducao\obj\Debug\AppIntroducao.view.FormProdutoListar.resources
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\AppIntroducao\obj\Debug\AppIntroducao.view.FrmComponetes.resources
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\AppIntroducao\obj\Debug\AppIntroducao.csproj.GenerateResource.cache
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\AppIntroducao\obj\Debug\AppIntroducao.csproj.CoreCompileInputs.cache
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\AppIntroducao\obj\Debug\AppIntroducao.exe
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\AppIntroducao\obj\Debug\AppIntroducao.pdb
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\AppIntroducao\obj\Debug\AppIntroducao.view.FrmCalculaosBasicos.resources
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\AppIntroducao.exe.config
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\AppIntroducao.exe
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\AppIntroducao.pdb
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.csproj.AssemblyReference.cache
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.FormPrincipal.resources
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.Properties.Resources.resources
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.view.FormClienteCadastrar.resources
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.view.FormClienteListar.resources
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.view.FormProdutoCadastrar.resources
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.view.FormProdutoListar.resources
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.view.FrmCalculaosBasicos.resources
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.view.FrmComboBox.resources
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.view.FrmComponetes.resources
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.csproj.GenerateResource.cache
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.csproj.CoreCompileInputs.cache
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.exe
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.pdb
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.view.FrmComboComCalculo.resources
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\BouncyCastle.Crypto.dll
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\Google.Protobuf.dll
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\K4os.Compression.LZ4.dll
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\K4os.Hash.xxHash.dll
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\MySql.Data.dll
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\System.Buffers.dll
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\System.Memory.dll
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\System.Numerics.Vectors.dll
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\Ubiety.Dns.Core.dll
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\ZstdNet.dll
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\BouncyCastle.Crypto.xml
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\Google.Protobuf.pdb
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\Google.Protobuf.xml
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\K4os.Compression.LZ4.xml
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\K4os.Hash.xxHash.xml
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\MySql.Data.xml
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\System.Buffers.xml
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\System.Memory.xml
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\System.Numerics.Vectors.xml
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.view.FrmCadSetor.resources
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.csproj.CopyComplete
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.view.FrmCadastrarCliente.resources
+D:\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.view.FrmCadastrarForncecedor.resources
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\AppIntroducao.exe.config
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\AppIntroducao.exe
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\AppIntroducao.pdb
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\BouncyCastle.Crypto.dll
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\Google.Protobuf.dll
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\K4os.Compression.LZ4.dll
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\K4os.Hash.xxHash.dll
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\MySql.Data.dll
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\System.Buffers.dll
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\System.Memory.dll
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\System.Numerics.Vectors.dll
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\Ubiety.Dns.Core.dll
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\ZstdNet.dll
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\BouncyCastle.Crypto.xml
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\Google.Protobuf.pdb
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\Google.Protobuf.xml
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\K4os.Compression.LZ4.xml
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\K4os.Hash.xxHash.xml
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\MySql.Data.xml
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\System.Buffers.xml
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\System.Memory.xml
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\System.Numerics.Vectors.xml
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.csproj.AssemblyReference.cache
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.FormPrincipal.resources
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.Properties.Resources.resources
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.view.FormClienteCadastrar.resources
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.view.FormClienteListar.resources
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.view.FormProdutoCadastrar.resources
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.view.FormProdutoListar.resources
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.view.FrmCadastrarCliente.resources
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.view.FrmCadastrarForncecedor.resources
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.view.FrmCadSetor.resources
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.view.FrmCalculaosBasicos.resources
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.view.FrmComboBox.resources
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.view.FrmComboComCalculo.resources
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.view.FrmComponetes.resources
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.csproj.GenerateResource.cache
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.csproj.CoreCompileInputs.cache
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.csproj.CopyComplete
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.exe
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.pdb
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.view.FrmCadastrarFuncionario.resources
+D:\ERICK_FATEC\Fatec\2° Semestre\Eletiva I - Banco de Dados\Projetos\AppIntroducao\obj\Debug\AppIntroducao.view.FrmCadastrarAluno.resources

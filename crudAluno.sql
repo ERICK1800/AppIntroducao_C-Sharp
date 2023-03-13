@@ -1,0 +1,6 @@
+CREATE TABLE aluno (
+    id      INT PRIMARY KEY AUTO_INCREMENT NOT NULL,
+    nome    VARCHAR(50) NOT NULL,
+    email   VARCHAR(50) NOT NULL,
+    idade   INT NOT NULL
+);
